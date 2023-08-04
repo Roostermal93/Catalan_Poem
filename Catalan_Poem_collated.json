@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f7418466-cf8b-4e98-81ba-754ee7602c64",
+            "collectionId": "Catalan",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Catalan/f7418466-cf8b-4e98-81ba-754ee7602c64_ca_Female.mp4"
+        },
+        {
+            "id": "ac185167-d966-4a9c-b947-29f0b9886615",
+            "collectionId": "Catalan",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Catalan/ac185167-d966-4a9c-b947-29f0b9886615_ca_Female.mp4"
+        },
+        {
+            "id": "8795fe77-b655-4338-996c-89ff9daebf73",
+            "collectionId": "Catalan",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Catalan/8795fe77-b655-4338-996c-89ff9daebf73_ca_Female.mp4"
+        }
+    ]
+}
